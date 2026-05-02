@@ -19,3 +19,155 @@ comentários
                     </button>
                 </div>
             </div>
+
+            <!--style="width: 100%; height:100vh; background-image: url(img/txt.png);  background-repeat: no-repeat; background-size: cover; background-position: center; "-->
+
+                <!--Div geral do Cards(começo)
+    <div class="p-6 m-6 justify-items-center shadow-2xl">
+
+        <!-- Container dos Cards 
+        <div class="container p-4 m-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+             <!-- Card1 
+            <div class="max-w-sm w-full bg-white rounded-2xl shadow-lg overflow-hidden transition duration-300 hover:shadow-2xl hover:-translate-y-1 hover:scale-105">
+                
+                <div class="overflow-hidden rounded-4xl border-2 border-amber-600 m-4 p-4">
+                    <img class="w-full h-full object-cover rounded-2xl"
+                        src="https://wallpapercave.com/wp/OUlOPb2.jpg" alt="Oficina">
+                </div>
+              
+                <div class="p-6 sm:z-10">
+                    <h2 class="sm:text-xl font-bold text-gray-800 mb-2">
+                       CADASTRO DE PESSOAS
+                    </h2>
+                    <p class="text-gray-600  mb-4">
+                        Controle de clientes da sua oficina.
+                    </p>
+                    <div class="flex justify-between items-center">
+                        <span class="text-green-600 font-semibold">
+                            Ativo
+                        </span>
+                        <a href="#" class="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg transition hover:shadow-2xl hover:-translate-y-1 hover:scale-105">
+                            Acessar
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!--Card1 -->
+    <!-- Card2 
+             <div class="max-w-sm w-full bg-white rounded-2xl shadow-lg overflow-hidden transition duration-300 hover:shadow-2xl hover:-translate-y-1 hover:scale-105">
+                
+                <div class="overflow-hidden rounded-4xl border-2 border-amber-600 m-4 p-4">
+                    <img class="w-full h-full object-cover rounded-2xl"
+                        src="https://wallpapercave.com/wp/OUlOPb2.jpg" alt="Oficina">
+                </div>
+
+                
+                <div class="p-6 sm:z-10">
+                    <h2 class="sm:text-xl font-bold text-gray-800 mb-2">
+                       CADASTRO DE PESSOAS
+                    </h2>
+                    <p class="text-gray-600  mb-4">
+                        Controle de clientes da sua oficina.
+                    </p>
+                    <div class="flex justify-between items-center">
+                        <span class="text-green-600 font-semibold">
+                            Ativo
+                        </span>
+                        <a href="#" class="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg transition hover:shadow-2xl hover:-translate-y-1 hover:scale-105">
+                            Acessar
+                        </a>
+                    </div>
+                </div>
+            </div>
+             Card2 -->
+    <!-- Card3 
+            <div class="max-w-sm w-full bg-white rounded-2xl shadow-lg overflow-hidden transition duration-300 hover:shadow-2xl hover:-translate-y-1 hover:scale-105">
+                
+                <div class="overflow-hidden">
+                    <img class="w-full h-full object-cover"
+                        src="https://wallpapercave.com/wp/OUlOPb2.jpg" alt="Oficina">
+                </div>
+
+                
+                <div class="p-6 sm:z-10">
+                    <h2 class="sm:text-xl font-bold text-gray-800 mb-2">
+                       CADASTRO DE PESSOAS
+                    </h2>
+                    <p class="text-gray-600  mb-4">
+                        Controle de clientes da sua oficina.
+                    </p>
+                    <div class="flex justify-between items-center">
+                        <span class="text-green-600 font-semibold">
+                            Ativo
+                        </span>
+                        <a href="#" class="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg transition hover:shadow-2xl hover:-translate-y-1 hover:scale-105">
+                            Acessar
+                        </a>
+                    </div>
+                </div>
+            </div>
+             Card3 -->
+
+    </div>
+    <!--Fim Contanier dos Card-->
+    </div>
+    <!--Div geral do Cards(fim)-->
+
+    SIDEBAR
+
+            <aside class=" w-72 h-screen bg-gray-950 text-white p-6  shadow-2xl rounded-2xl">
+            <div class="mb-10">
+                <h1 class="text-2xl font-bold text-yellow-400">🔧 Rio Grande</h1>
+                <p class="text-sm text-gray-400">Sistema de Cadastro</p>
+            </div>
+            <nav class="space-y-3">
+
+                <a href="#" class="flex items-center gap-3 p-3 rounded-xl hover:bg-zinc-800 transition">
+                    🏠 <span>Dashboard</span>
+                </a>
+
+                <a href="#" class="flex items-center gap-3 p-3 rounded-xl hover:bg-zinc-800 transition">
+                    🚗 <span>Veículos</span>
+                </a>
+
+                <a href="#" class="flex items-center gap-3 p-3 rounded-xl hover:bg-zinc-800 transition">
+                    👨‍🔧 <span>Clientes</span>
+                </a>
+
+                <a href="#" class="flex items-center gap-3 p-3 rounded-xl hover:bg-zinc-800 transition">
+                    🧰 <span>Ordens de Serviço</span>
+                </a>
+
+                <a href="#" class="flex items-center gap-3 p-3 rounded-xl hover:bg-zinc-800 transition">
+                    📦 <span>Estoque</span>
+                </a>
+
+                <a href="#" class="flex items-center gap-3 p-3 rounded-xl hover:bg-zinc-800 transition">
+                    💰 <span>Financeiro</span>
+                </a>
+
+                <a href="#" class="flex items-center gap-3 p-3 rounded-xl hover:bg-zinc-800 transition">
+                    ⚙️ <span>Configurações</span>
+                </a>
+
+            </nav>
+
+        </aside>
+
+                 <!--Nome da oficina H1
+            <div class="items-center flex">
+                
+            <div class="justify-center shadow-2xl p-6 rounded-2xl">
+                <h1 class="font-bold text-5xl text-center ">Sistema Rio Grande</h1>
+            </div>
+            
+                <img src="img/rg.jpg" alt="" class="rounded-full w-20 h-20 ">
+            <div class="justify-center flex gap-6 m-2 p-2 border-2 rounded-2xl text-white">
+                
+                <a href="">Menu</a>
+                <a href="">Busca</a>
+                <a href="">Login</a>
+                <a href="">Login</a>
+            </div>
+            </div>
+            -->
